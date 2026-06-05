@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 📊 My LeetCode Statistics
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?username=Apoorva_Krishna_P&theme=dark)
+[![LeetCode Stats](https://github-readme-leetcode.vercel.app/api?username=Apoorva_Krishna_P&theme=dark)](https://leetcode.com/u/Apoorva_Krishna_P/)
 
